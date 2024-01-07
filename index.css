@@ -549,7 +549,9 @@ body:not(.user-is-tabbing) a:focus {
         align-items: initial;
     }
 }
-
+.about__photo1{
+    width: 70px;
+}
 .about__photo-container {
     margin-bottom: var(--gutter-normal);
 }
